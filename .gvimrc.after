@@ -1,5 +1,5 @@
 colorscheme railscasts3
-set guifont=Monaco:h12
+set guifont=Monaco:h16
 
 " hide scroll bars
 set guioptions-=r
